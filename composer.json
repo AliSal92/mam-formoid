@@ -1,0 +1,16 @@
+{
+    "name": "ali/mam-formoid",
+    "description": "MAM Version of Formoid",
+    "type": "project",
+    "license": "GPL-2",
+    "authors": [
+        {
+            "name": "Ali Sal",
+            "email": "ali.alsalti1992@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "phpmailer/phpmailer": "^6.4"
+    }
+}
